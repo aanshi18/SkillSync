@@ -1,0 +1,19 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+streamlit
+
+# Natural Language Processing
+nltk
+sentence-transformers
+transformers
+torch
+
+# PDF Processing
+PyPDF2
+
+# Job Data Fetching
+python-jobspy  # Requires Python >=3.10, <4.0
+
+rake-nltk
