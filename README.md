@@ -25,6 +25,7 @@ SkillSync is a smart, AI-powered job matching system that enables professionals 
 ```bash
 pip install -r requirements.txt
 streamlit run filter.py
+```
 
 ## Contributors
 Sreekar Gadasu | Aanshi Patwari
