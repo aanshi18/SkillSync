@@ -27,5 +27,3 @@ pip install -r requirements.txt
 streamlit run filter.py
 ```
 
-## Contributors
-Sreekar Gadasu | Aanshi Patwari
